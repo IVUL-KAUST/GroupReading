@@ -6,7 +6,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 ![Group Image][image-group]
 
 # Readings
-This table keeps track of the paper discussed at each group reading session.
+This table keeps track of the paper to be discussed at each group reading session.
 
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
