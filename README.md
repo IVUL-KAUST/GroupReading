@@ -13,8 +13,8 @@ This table keeps track of the paper to be discussed at each group reading sessio
 | Thu, Aug 18, 2016 | Attention Models | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
 | Thu, Aug 25, 2016 | Trends in Action Detection | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Sept 1, 2016 | Determinantal Point Process  | TBD | ![Baoyuan Wu][image-bao] <br> [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home) |
-| Thu, Sept 8, 2016 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Sept 22, 2016 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| Thu, Sept 8, 2016 | Visual question answering | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Sept 29, 2016 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Oct 6, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Oct 20, 2016 | TBD | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
