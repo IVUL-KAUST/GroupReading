@@ -15,11 +15,11 @@ This table keeps track of the paper to be discussed at each group reading sessio
 | Thu, Sept 1, 2016 | Determinantal Point Process  | TBD | ![Baoyuan Wu][image-bao] <br> [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home) |
 | Thu, Sept 8, 2016 | Visual question answering | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
 | Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
-| Thu, Sept 29, 2016 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| Thu, Oct 6, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Sept 29, 2016 | 2D object detection with emphasis on Faster RCNN | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
+| Thu, Oct 6, 2016 | Sparse/Low Rank to Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Oct 20, 2016 | TBD | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | Thu, Oct 27, 2016 | TBD | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
-| Thu, Nov 3, 2016 | TBD | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| Thu, Nov 3, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
 [image-group]: https://ivul.kaust.edu.sa/PublishingImages/Featured/GroupPhoto2.png?Width=915&Height=240 "IVUL Group Photo"
