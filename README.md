@@ -32,5 +32,4 @@ This table keeps track of the paper to be discussed at each group reading sessio
 [image-sara]: https://ivul.kaust.edu.sa/PublishingImages/People/sara_shaheen.jpg?Width=135&Height=135 "Sara Shaheen"
 [image-matthias]: https://ivul.kaust.edu.sa/PublishingImages/People/Matthias_Mueller.jpg?Width=135&Height=135 "Matthias Mueller"
 [image-ganzhao]: https://ivul.kaust.edu.sa/PublishingImages/People/Ganzhao%20Yuan.jpg?Width=135&Height=135 "Ganzhao Yuan"
-[image-adel]: http://www.adelbibi.com/adelbibi_cropped.png "Adel Bibi"
-
+[image-adel]: https://ivul.kaust.edu.sa/PublishingImages/People/Adel_Bibi.jpg?Width=135&Height=135 "Adel Bibi"
