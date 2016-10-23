@@ -17,7 +17,7 @@ This table keeps track of the paper to be discussed at each group reading sessio
 | Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Sept 29, 2016 | 2D object detection with emphasis on Faster RCNN | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Oct 6, 2016 | Sparse/Low Rank Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Oct 20, 2016 | TBD | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
+| Thu, Oct 20, 2016 | Deep Reinforcement Learning | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | Thu, Oct 27, 2016 | TBD | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
 | Thu, Nov 3, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
