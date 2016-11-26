@@ -19,7 +19,7 @@ This table keeps track of the paper to be discussed at each group reading sessio
 | Thu, Oct 6, 2016 | Sparse/Low Rank Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Oct 20, 2016 | Deep Reinforcement Learning | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | Thu, Oct 27, 2016 | Majorization Minimization Algorithms | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
-| Thu, Nov 3, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Nov 3, 2016 | Overview of Sketch Based Derived Applications and Techniques | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
 [image-group]: https://ivul.kaust.edu.sa/PublishingImages/Featured/GroupPhoto2.png?Width=915&Height=240 "IVUL Group Photo"
