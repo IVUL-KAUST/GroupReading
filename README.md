@@ -9,17 +9,15 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
-| Thu, Oct 6, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, Markov Decision Processes | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Oct 6, 2016 | Dynamic Programming For solving MDBs,and Model-Free Prediction/Control. | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Oct 20, 2016 | TBD | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
-| Thu, Aug 18, 2016 | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
-| Thu, Aug 25, 2016 | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
-| Thu, Sept 1, 2016 | TBD  | TBD | ![Baoyuan Wu][image-bao] <br> [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home) |
-| Thu, Sept 8, 2016 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Sept 22, 2016 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
-| Thu, Sept 29, 2016 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| Thu, Oct 27, 2016 | TBD | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
-| Thu, Nov 3, 2016 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Nov 24, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, Markov Decision Processes | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs,and Model-Free Prediction/Control. | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| Thu, Dec 8, 2016 | Q-Learning | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
+| TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
+| TBD | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
+| TBD | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| TBD | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
+| TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 
 # Readings
