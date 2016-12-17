@@ -10,7 +10,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
 | Thu, Nov 24, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, Markov Decision Processes | <br> [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs,and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs,and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
 | TBD | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
