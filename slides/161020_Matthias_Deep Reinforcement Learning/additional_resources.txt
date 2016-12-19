@@ -1,0 +1,3 @@
+https://github.com/aikorea/awesome-rl. 
+
+papers and video lectures about reinforcement learning
