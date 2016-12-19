@@ -31,8 +31,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | [Slides](https://github.com/lamaaffara/GroupReading/raw/master/slides/160922_Lama_Proximal%20Algorithms/Proximal%20Algorithms.pptx) | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Sept 29, 2016 | 2D object detection with emphasis on Faster RCNN | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Oct 6, 2016 | Sparse/Low Rank Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Oct 20, 2016 | Deep Reinforcement Learning | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
-| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
+| Thu, Oct 20, 2016 | Deep Reinforcement Learning | [Slides](https://github.com/lamaaffara/GroupReading/blob/master/slides/161020_Matthias_Deep%20Reinforcement%20Learning/161020_DeepReinforcementLearning_GroupMeeting.pdf) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
+| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | [Slides](https://github.com/lamaaffara/GroupReading/raw/master/slides/161027_Ganzhao_Majorization%20Minimization%20Algorithms/majorization.pptx) | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
 | Thu, Nov 3, 2016 | Overview of Sketch Based Derived Applications and Techniques | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
