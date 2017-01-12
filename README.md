@@ -20,6 +20,13 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | TBD | TBD | TBD |  Jian Zhang |
 | TBD | TBD | TBD |  Yancheng Bai |
+| TBD | TBD | TBD |  Noor Bafagesh |
+| TBD | TBD | TBD |  Humama AlWassil |
+| TBD | TBD | TBD |  Abduallah Al Hamdi |
+| TBD | TBD | TBD |  Modar |
+
+
+
 
 
 
