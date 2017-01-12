@@ -19,6 +19,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | TBD | TBD | TBD |  Jian Zhang |
+| TBD | TBD | TBD |  Yancheng Bai |
+
 
 
 
