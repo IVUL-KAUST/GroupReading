@@ -18,6 +18,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | TBD | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| TBD | TBD | TBD |  Jian Zhang |
+
 
 
 # Readings (Aug 18th 2016 - Nov 3rd 2016)
