@@ -12,18 +12,18 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Nov 24, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, and Markov Decision Processes. | <br> [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs, and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
-| TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
-| TBD | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
-| TBD | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| TBD | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
-| TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
-| TBD | TBD | TBD |  Jian Zhang |
-| TBD | TBD | TBD |  Yancheng Bai |
-| TBD | TBD | TBD |  Noor Bafagesh |
-| TBD | TBD | TBD |  Humama AlWassil |
-| TBD | TBD | TBD |  Abduallah Al Hamdi |
-| TBD | TBD | TBD |  Modar |
+| Thu, Jan 19, 2017 | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
+| Thu, Jan 26, 2017 | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
+| Thu, Feb 2, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu, Feb 9, 2017 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| Thu, Feb 16, 2017 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
+| Thu, Feb 23, 2017 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Mar 2, 2017 | TBD | TBD |  Jian Zhang |
+| Thu, Mar 9, 2017 | TBD | TBD |  Yancheng Bai |
+| Thu, Mar 16, 2017 | TBD | TBD |  Noor Bafagesh |
+| Thu, Mar 23, 2017 | TBD | TBD |  Humama AlWassil |
+| Thu, Mar 30, 2017 | TBD | TBD |  Abduallah Al Hamdi |
+| Thu, Apr 6, 2017 | TBD | TBD |  Modar |
 
 
 
