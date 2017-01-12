@@ -12,7 +12,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Nov 24, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, and Markov Decision Processes. | <br> [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs, and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
-| Thu, Jan 19, 2017 | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
+| Thu, Jan 19, 2017 | Generative Adversarial Networks (GANs) | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
 | Thu, Jan 26, 2017 | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 2, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
 | Thu, Feb 9, 2017 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
