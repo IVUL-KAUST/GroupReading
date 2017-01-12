@@ -17,9 +17,9 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 2, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
 | Thu, Feb 9, 2017 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Feb 16, 2017 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| Thu, Feb 23, 2017 | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Feb 23, 2017 | KLT/Tracker | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 2, 2017 | Optimization Inspired Network Design | TBD |  Jian Zhang |
-| Thu, Mar 9, 2017 | TBD | TBD |  Yancheng Bai |
+| Thu, Mar 9, 2017 | New DL Architectures | TBD |  Yancheng Bai |
 | Thu, Mar 16, 2017 | TBD | TBD |  Noor Bafagesh |
 | Thu, Mar 23, 2017 | TBD | TBD |  Humama AlWassil |
 | Thu, Mar 30, 2017 | TBD | TBD |  Abduallah Al Hamdi |
