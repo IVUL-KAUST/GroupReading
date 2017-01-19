@@ -21,9 +21,9 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Mar 2, 2017 | KLT/Tracker | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 9, 2017 | Transfer Learning | TBD |  Modar |
 | Thu, Mar 16, 2017 | Online Learning | TBD |  Abduallah Al Hamdi |
-| Thu, Mar 23, 2017 | TBD | TBD |  Noor Bafagesh |
+| Thu, Mar 23, 2017 | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
 | Thu, Mar 30, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Apr 6, 2017 | TBD | TBD | Humam Al Wasli |
+| Thu, Apr 6, 2017 | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
 
 
 
@@ -56,4 +56,5 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-adel]: https://ivul.kaust.edu.sa/PublishingImages/People/Adel_Bibi.jpg?Width=135&Height=135 "Adel Bibi"
 [image-jian]: https://ivul.kaust.edu.sa/PublishingImages/People/JianZhang.png?Width=135&Height=135 "Jian Zhang"
 [image-Yancheng]: https://ivul.kaust.edu.sa/PublishingImages/People/YanchengBai.jpg?Width=135&Height=135 "Yancheng Bai"
-
+[image-Noor]: https://ivul.kaust.edu.sa/PublishingImages/People/NoorBafageeh.jpg?Width=135&Height=135 "Noor Bafageeh"
+[image-Humam]: https://ivul.kaust.edu.sa/PublishingImages/People/HumamAlwassel.jpg?Width=135&Height=135 "Humam AlWassel"
