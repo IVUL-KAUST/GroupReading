@@ -54,3 +54,4 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-matthias]: https://ivul.kaust.edu.sa/PublishingImages/People/Matthias_Mueller.jpg?Width=135&Height=135 "Matthias Mueller"
 [image-ganzhao]: https://ivul.kaust.edu.sa/PublishingImages/People/Ganzhao%20Yuan.jpg?Width=135&Height=135 "Ganzhao Yuan"
 [image-adel]: https://ivul.kaust.edu.sa/PublishingImages/People/Adel_Bibi.jpg?Width=135&Height=135 "Adel Bibi"
+[image-jian]: https://ivul.kaust.edu.sa/PublishingImages/People/JianZhang.png?Width=135&Height=135 "Jian Zhang"
