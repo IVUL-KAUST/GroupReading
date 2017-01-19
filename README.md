@@ -14,7 +14,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | Thu, Jan 19, 2017 | Generative Adversarial Networks (GANs) | [Slides](https://drive.google.com/open?id=0B0ZXjo_p8lHBTzA4U0FJY19vVk0) [Extra](https://drive.google.com/open?id=13FBSJFHDUhrkEDV_yPDqFF6jLSj-t3xPHroxpEMJFDg) | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
 | Thu, Jan 26, 2017 | Optimization Inspired Network Design | TBD | Jian Zhang |
-| Thu, Feb 2, 2017 | TBD | TBD | Lama |
+| Thu, Feb 2, 2017 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Feb 9, 2017 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Feb 16, 2017 | One shot learning | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 23, 2017 | New DL Architectures | TBD |  Yancheng Bai |
@@ -23,6 +23,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Mar 16, 2017 | Online Learning | TBD |  Abduallah Al Hamdi |
 | Thu, Mar 23, 2017 | TBD | TBD |  Noor Bafagesh |
 | Thu, Mar 30, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu, Apr 6, 2017 | TBD | TBD | Humam Al Wasli |
+
 
 
 # Readings (Aug 18th 2016 - Nov 3rd 2016)
