@@ -13,7 +13,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs, and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2] (https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
 | Thu, Jan 19, 2017 | Generative Adversarial Networks (GANs) | [Slides](https://drive.google.com/open?id=0B0ZXjo_p8lHBTzA4U0FJY19vVk0) [Extra](https://drive.google.com/open?id=13FBSJFHDUhrkEDV_yPDqFF6jLSj-t3xPHroxpEMJFDg) | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
-| Thu, Jan 26, 2017 | Optimization Inspired Network Design | <a href="/Material/Opt_inspired_networks_Jian.pdf">[Slides]</a> | ![Jian Zhang][image-jian] <br> Jian Zhang |
+| Thu, Jan 26, 2017 | Optimization Inspired Network Design | <a href="/Material/Opt_inspired_networks_Jian.pdf">Slides</a> | ![Jian Zhang][image-jian] <br> Jian Zhang |
 | Thu, Feb 2, 2017 | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Feb 9, 2017 | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Feb 16, 2017 | One shot learning | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
