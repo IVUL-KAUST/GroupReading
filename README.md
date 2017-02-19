@@ -16,7 +16,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Jan 26, 2017 | Optimization Inspired Network Design | <a href="/Material/Opt_inspired_networks_Jian.pdf">Slides</a> | ![Jian Zhang][image-jian] <br> Jian Zhang |
 | Thu, Feb 2, 2017 | Bayesian Optimization | <a href="Material/Bayesian_Optimization_Lama.pdf" target="_blank">Slides</a>  | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Feb 9, 2017 |  Siamese Networks and Some Applications | <a href="Material/SiameseNetworkArchitecture_Jean.pdf" target="_blank">Slides</a>   | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| Thu, Feb 16, 2017 | Imitation Learning | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
+| Thu, Feb 16, 2017 | Imitation Learning | <a href="Material/imitation_learning.pdf" target="_blank">Slides</a> | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 23, 2017 | New DL Architectures | TBD |  ![Yancheng Bai] [image-Yancheng] <br> Yancheng Bai |
 | Thu, Mar 2, 2017 | KLT/Tracker | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 9, 2017 | Transfer Learning | TBD |  Modar |
