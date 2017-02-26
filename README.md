@@ -18,7 +18,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 9, 2017 |  Siamese Networks and Some Applications | <a href="Material/SiameseNetworkArchitecture_Jean.pdf" target="_blank">Slides</a>   | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Feb 16, 2017 | Imitation Learning | <a href="Material/imitation_learning.pdf" target="_blank">Slides</a> | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 23, 2017 | New DL Architectures | TBD |  ![Yancheng Bai] [image-Yancheng] <br> Yancheng Bai |
-| Thu, Mar 2, 2017 | KLT/Tracker | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 9, 2017 | Transfer Learning | TBD |  Modar |
 | Thu, Mar 16, 2017 | Online Learning | TBD |  Abduallah Al Hamdi |
 | Thu, Mar 23, 2017 | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
