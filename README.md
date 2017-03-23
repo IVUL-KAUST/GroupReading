@@ -20,10 +20,10 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 23, 2017 | New DL Architectures | TBD |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
 | Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  Modar |
-| Thu, Mar 16, 2017 | Online Learning | TBD |  Abduallah Al Hamdi |
-| Thu, Mar 23, 2017 | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
-| Thu, Mar 30, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Apr 6, 2017 | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
+| Thu | Online Learning | TBD |  Abduallah Al Hamdi |
+| Thu | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
+| Thu | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
 
 
 
