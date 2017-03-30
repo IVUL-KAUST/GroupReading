@@ -11,7 +11,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | :---: | :---: | :---: | :---: |
 | Thu, Nov 24, 2016 | Introduction to Reinforcement Learning, Markov Processes, Markov Reward Processes, and Markov Decision Processes. | <br> [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2](https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Dec 1, 2016 | Dynamic Programming For solving MDBs, and Model-Free Prediction/Control. | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) [Link2](https://www.youtube.com/watch?v=IXuHxkpO5E8) | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
+| Thu, Dec 8, 2016 | Q-Learning | [Link1](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu, Jan 19, 2017 | Generative Adversarial Networks (GANs) | [Slides](https://drive.google.com/open?id=0B0ZXjo_p8lHBTzA4U0FJY19vVk0) [Extra](https://drive.google.com/open?id=13FBSJFHDUhrkEDV_yPDqFF6jLSj-t3xPHroxpEMJFDg) | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
 | Thu, Jan 26, 2017 | Optimization Inspired Network Design | <a href="/Material/Opt_inspired_networks_Jian.pdf">Slides</a> | ![Jian Zhang][image-jian] <br> Jian Zhang |
 | Thu, Feb 2, 2017 | Bayesian Optimization | <a href="Material/Bayesian_Optimization_Lama.pdf" target="_blank">Slides</a>  | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
@@ -20,7 +20,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 23, 2017 | New DL Architectures | TBD |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
 | Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  Modar |
-| Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control | TBD | ![Matthias Mueller][image-matthias] <br> Matthias Mueller |
+| Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu | Online Learning | TBD |  Abduallah Al Hamdi |
 | Thu | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
 | Thu | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
