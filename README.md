@@ -20,8 +20,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 23, 2017 | New DL Architectures |  <a href="Material/Resnet_and_New Architectures_Yancheng.pdf">Slides</a>  |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
 | Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  Modar Alfadly |
-| Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a>
-"">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
+| Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu | Online Learning | TBD |  Abduallah Al Hamdi |
 | Thu | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
 | Thu | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
