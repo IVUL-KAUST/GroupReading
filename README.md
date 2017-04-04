@@ -18,7 +18,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 9, 2017 |  Siamese Networks and Some Applications | <a href="Material/SiameseNetworkArchitecture_Jean.pdf" target="_blank">Slides</a>   | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Feb 16, 2017 | Imitation Learning | <a href="Material/imitation_learning_Fabian.pdf" target="_blank">Slides</a> | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 23, 2017 | New DL Architectures |  <a href="Material/Resnet_and_New Architectures_Yancheng.pdf">Slides</a>  |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
-| Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding |  <a href="Material/Parametric-CSC_sara.ppt">Slides</a>   | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding |  <a href="Material/Parametric-CSC_sara.pptx">Slides</a>   | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  Modar Alfadly |
 | Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu | Online Learning | TBD |  Abduallah Al Hamdi |
@@ -36,11 +36,11 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 25, 2016 | Trends in Action Detection | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Sept 1, 2016 | Determinantal Point Process  | TBD | ![Baoyuan Wu][image-bao] <br> [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home) |
 | Thu, Sept 8, 2016 | Visual question answering | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | <a href="Material/Proximal_Algorithms_lama.ppt">Slides</a> | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | <a href="Material/Proximal_Algorithms_lama.pptx">Slides</a> | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Sept 29, 2016 | 2D object detection with emphasis on Faster RCNN | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Oct 6, 2016 | Sparse/Low Rank Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Oct 20, 2016 | Deep Reinforcement Learning | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
-| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | <a href="Material/majorization_ganzhao.ppt">Slides</a> | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
+| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | <a href="Material/majorization_ganzhao.pptx">Slides</a> | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
 | Thu, Nov 3, 2016 | Overview of Sketch Based Derived Applications and Techniques | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
