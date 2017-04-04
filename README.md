@@ -36,11 +36,11 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 25, 2016 | Trends in Action Detection | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Sept 1, 2016 | Determinantal Point Process  | TBD | ![Baoyuan Wu][image-bao] <br> [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home) |
 | Thu, Sept 8, 2016 | Visual question answering | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| Thu, Sept 22, 2016 | Introduction to Proximal Algorithms | <a href="Material/Proximal_Algorithms_lama.ppt">Slides</a> | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
 | Thu, Sept 29, 2016 | 2D object detection with emphasis on Faster RCNN | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
 | Thu, Oct 6, 2016 | Sparse/Low Rank Subspace Clustering | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | Thu, Oct 20, 2016 | Deep Reinforcement Learning | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
-| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | TBD | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
+| Thu, Oct 27, 2016 | Majorization Minimization Algorithms | <a href="Material/majorization_ganzhao.ppt">Slides</a> | ![Ganzhao Yuan][image-ganzhao] <br> [Ganzhao Yuan](http://yuanganzhao.weebly.com/) |
 | Thu, Nov 3, 2016 | Overview of Sketch Based Derived Applications and Techniques | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
