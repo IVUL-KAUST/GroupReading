@@ -19,7 +19,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Feb 16, 2017 | Imitation Learning | <a href="Material/imitation_learning_Fabian.pdf" target="_blank">Slides</a> | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
 | Thu, Feb 23, 2017 | New DL Architectures |  <a href="Material/Resnet_and_New Architectures_Yancheng.pdf">Slides</a>  |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
 | Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding |  <a href="Material/Parametric-CSC_sara.pptx">Slides</a>   | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
-| Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  Modar Alfadly |
+| Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly |
 | Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu | Online Learning | <a href="Material/Online Learning_Abdullah.pptx">Slides</a> |  Abduallah Al Hamdi |
 | Thu | Visual Attributes and GANs | <a href="Material/Visual_Attributes_and_GANs_Noor.pptx">Slides</a>  |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
@@ -59,3 +59,5 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-Yancheng]: https://ivul.kaust.edu.sa/PublishingImages/People/YanchengBai.jpg?Width=135&Height=135 "Yancheng Bai"
 [image-Noor]: https://ivul.kaust.edu.sa/PublishingImages/People/NoorBafageeh.jpg?Width=135&Height=135 "Noor Bafageeh"
 [image-Humam]: https://ivul.kaust.edu.sa/PublishingImages/People/HumamAlwassel.jpg?Width=135&Height=135 "Humam AlWassel"
+[image-Modar]: https://ivul.kaust.edu.sa/PublishingImages/People/Modar_Alfadly.jpg?Width=135&Height=135 "Modar Alfadly"
+[image-Abdullah]: https://ivul.kaust.edu.sa/PublishingImages/People/Abdullah_Hamdi.jpg?Width=135&Height=135 "Abdullah Hamdi"
