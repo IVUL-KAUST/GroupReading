@@ -21,10 +21,10 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Mar 2, 2017 | Parameterized Convolutional Sparse Coding |  <a href="Material/Parametric-CSC_sara.pptx">Slides</a>   | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 | Thu, Mar 23, 2017 | Transfer Learning | [Link](http://yosinski.com/transfer) <a href="Material/Transfer Learning_Modar.pptx" target="_blank">Slides</a> |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly |
 | Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
-| Thu | Online Learning | <a href="Material/Online Learning_Abdullah.pptx">Slides</a> |  ![Abduallah Hamdi][image-Abdullah] <br> Abduallah Hamdi |
-| Thu | Visual Attributes and GANs | <a href="Material/Visual_Attributes_and_GANs_Noor.pptx">Slides</a>  |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
-| Thu | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| Thu | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
+| Thu, April 13, 2017 | Online Learning | <a href="Material/Online Learning_Abdullah.pptx">Slides</a> |  ![Abduallah Hamdi][image-Abdullah] <br> Abduallah Hamdi |
+| Thu, April 20, 2017 | Visual Attributes and GANs | <a href="Material/Visual_Attributes_and_GANs_Noor.pptx">Slides</a>  |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
+| Thu, April 27, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu, May 4, 2017 | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
 
 
 
