@@ -23,7 +23,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Mar 30, 2017 | Deep Reinforcement for Sensorimotor Control |  <a href="Material/Deep_Reinforcement_for_Sensorimotor_Control_Matthias.pdf">Slides</a> | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | Thu, April 13, 2017 | Online Learning | <a href="Material/Online Learning_Abdullah.pptx">Slides</a> |  ![Abduallah Hamdi][image-Abdullah] <br> Abduallah Hamdi |
 | Thu, April 20, 2017 | Visual Attributes and GANs | <a href="Material/Visual_Attributes_and_GANs_Noor.pptx">Slides</a>  |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
-| Thu, April 27, 2017 | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| Thu, April 27, 2017 | Hash Learning | <a href="Material/Hash_Learning_presentation_Jiahong.pptx">Slides</a> | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
 | Thu, May 4, 2017 | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
 
 
