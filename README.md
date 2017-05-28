@@ -5,7 +5,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 
 ![Group Image][image-group]
 
-# Readings (Nov 24th 2016 - TBD)
+
+# Readings (Nov 24th 2016 - May 4th 2017)
 
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
@@ -25,6 +26,34 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, April 20, 2017 | Visual Attributes and GANs | <a href="Material/Visual_Attributes_and_GANs_Noor.pptx">Slides</a>  |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
 | Thu, April 27, 2017 | Hash Learning | <a href="Material/Hash_Learning_presentation_Jiahong.pptx">Slides</a> | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
 | Thu, May 4, 2017 | Memory Networks | <a href="Material/MemNN_Humam.pptx">Slides</a> | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
+
+
+
+
+
+
+
+
+# Readings (May 25th 2017 - TBD)
+
+| **Date** | **Description** | **Readings** | **Presenter** |
+| :---: | :---: | :---: | :---: |
+| Thu, May 25, 2017 | Tensor Decompositions. | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| TBD | TBD | TBD | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
+| TBD | TBD | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
+| TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
+| TBD | TBD | TBD | ![Jian Zhang][image-jian] <br> Jian Zhang |
+| TBD | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
+| TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
+| TBD | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
+| TBD | TBD | TBD |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
+| TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
+| TBD | TBD | TBD |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly |
+| TBD | TBD | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
+| TBD | TBD | TBD |  ![Abduallah Hamdi][image-Abdullah] <br> Abduallah Hamdi |
+| TBD | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
+| TBD | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
+| TBD | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
 
 
 
