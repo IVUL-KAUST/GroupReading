@@ -14,7 +14,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
 | Thu, May 25, 2017 | Tensor Decompositions | [Link1](https://www.youtube.com/watch?v=HcIN27_WqPU&t=1559s) <br> <a href="Material/Tensor_decompositions_1.pptx">Slides</a> <br> <a href="Material/Tensor_decompositions_2.pdf">Material_2</a> <br> <a href="Material/Tensor_decompositions_3.pdf">Material_3</a> <br> <a href="Material/Tensor_decompositions_4.pdf">Material_4</a> | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| TBD | TBD | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
+| TBD | TBD | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
 
 | TBD | TBD | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
 | TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
