@@ -16,21 +16,6 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, May 25, 2017 | Tensor Decompositions | [Link1](https://www.youtube.com/watch?v=HcIN27_WqPU&t=1559s) <br> <a href="Material/Tensor_decompositions_1.pptx">Slides</a> <br> <a href="Material/Tensor_decompositions_2.pdf">Material_2</a> <br> <a href="Material/Tensor_decompositions_3.pdf">Material_3</a> <br> <a href="Material/Tensor_decompositions_4.pdf">Material_4</a> | ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
 | TBD | TBD | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
 
-| TBD | TBD | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
-| TBD | TBD | TBD | ![Victor Escorcia][image-victor] <br> [Victor Escorcia](http://escorciav.github.io/) |
-| TBD | TBD | TBD | ![Jian Zhang][image-jian] <br> Jian Zhang |
-| TBD | TBD | TBD | ![Lama Affara][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/) |
-| TBD | TBD | TBD | ![Jean Lahoud][image-jean] <br> Jean Lahoud |
-| TBD | TBD | TBD | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
-| TBD | TBD | TBD |  ![Yancheng Bai][image-Yancheng] <br> Yancheng Bai |
-| TBD | TBD | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
-| TBD | TBD | TBD |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly |
-| TBD | TBD | TBD | ![Matthias Mueller][image-matthias] <br> [Matthias Mueller](http://matthias.pw/) |
-| TBD | TBD | TBD |  ![Abduallah Hamdi][image-Abdullah] <br> Abduallah Hamdi |
-| TBD | TBD | TBD |  ![Noor Bafageeh][image-noor] <br> Noor Bafageeh  |
-| TBD | TBD | TBD | ![Jia-Hong Huang][image-jia] <br> Jia-Hong Huang |
-| TBD | TBD | TBD | ![Humam AlWassel][image-Humam] <br> Humam AlWassel  |
-
 
 
 
