@@ -19,7 +19,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, July 13, 2017 | Football Analytics | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Mohieddine and Tarek
 | Thu, July 20, 2017 | Football Analytics | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Silvio Giancola
 | Thu, Aug 3, 2017 | Abduallah Hamdi | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | ![image-silvio][image-Abdullah] <br> Abduallah Hamdi |
-| Thu, Aug 3, 2017 | Autoencoders and Segmentation | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | ![image-silvio][image-Abdullah] <br> Abduallah Hamdi |
+| Thu, Aug 3, 2017 | Autoencoders and Segmentation | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Chen Zhao
 
 
 
