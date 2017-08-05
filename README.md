@@ -18,8 +18,9 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, July 6, 2017 | Weakly Supervised Learning | <a href="weakly_supervised_learning_yongqiang.pdf">PDF</a> | Yongqiang Zhang
 | Thu, July 13, 2017 | Football Analytics | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Mohieddine and Tarek
 | Thu, July 20, 2017 | Deep Reinforcement Learning | <a href="https://slides.com/ligh1994/deck-4/live#/">Slides</a> <br> <a href="https://gym.openai.com/evaluations/eval_H3YICgS4a4X86xplDh5A">Example</a> | Guohao Li
-| Thu, Aug 3, 2017 | Abduallah Hamdi | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | ![image-silvio][image-Abdullah] <br> Abduallah Hamdi |
-| Thu, Aug 3, 2017 | Autoencoders and Segmentation | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Chen Zhao
+| Thu, Aug 3, 2017 | Dense Captioning | <a href="DenseCaptioning_Presentation_silvio.pdf">Slides</a> | ![image-silvio][image-silvio] <br> Abduallah Hamdi |
+| Thu, Aug 3, 2017 | Abduallah Hamdi | TBD | ![image-Abdullah][image-Abdullah] <br> Abduallah Hamdi |
+| Thu, Aug 10, 2017 | Autoencoders and Segmentation | TBD | ![image-Chen][image-Chen] <br> Chen Zhao
 
 
 
@@ -90,5 +91,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-Modar]: https://ivul.kaust.edu.sa/PublishingImages/People/Modar_Alfadly.jpg?Width=135&Height=135 "Modar Alfadly"
 [image-Abdullah]: https://ivul.kaust.edu.sa/PublishingImages/People/abd_hamdi.png?Width=135&Height=135 "Abdullah Hamdi"
 [image-silvio]: https://ivul.kaust.edu.sa/PublishingImages/People/Silvio_Giancola.png?Width=135&Height=135 "Silvio Giiancola"
+[image-Chen]: https://ivul.kaust.edu.sa/PublishingImages/People/ChenZhao.JPG?Width=135&Height=135 "Chen Zhao"
+
 
 
