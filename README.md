@@ -17,8 +17,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, June 22m 2017 | Understanding Deel Networks from a Geometric and Probabilistic Perspectives | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![Modar_Alfadly][image-Modar] <br> Modar Alfadly <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
 | Thu, July 6, 2017 | Weakly Supervised Learning | <a href="weakly_supervised_learning_yongqiang.pdf">PDF</a> | Yongqiang Zhang
 | Thu, July 13, 2017 | Football Analytics | <a href="Football_Analytics_Moh_Ta.pptx">Slides</a> | Mohieddine and Tarek
-| Thu, July 20, 2017 | Color transfer for underwater
-images color correction | <a href="Underwater_Color_transfer_Rafal_Adel.pdf">Slides</a> <br> <a href="https://gym.openai.com/evaluations/eval_H3YICgS4a4X86xplDh5A">Example</a> | Rafal Protasiuk <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
+| Thu, July 20, 2017 | Color transfer for underwater images color correction | <a href="Underwater_Color_transfer_Rafal_Adel.pdf">Slides</a> | Rafal Protasiuk <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
 | Thu, July 27, 2017 | Deep Reinforcement Learning | <a href="https://slides.com/ligh1994/deck-4/live#/">Slides</a> <br> <a href="https://gym.openai.com/evaluations/eval_H3YICgS4a4X86xplDh5A">Example</a> | Guohao Li
 | Thu, Aug 3, 2017 | Dense Captioning | <a href="DenseCaptioning_Presentation_silvio.pdf">Slides</a> | ![image-silvio][image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
 | Thu, Aug 10, 2017 | TBD | TBD | ![image-Abdullah][image-Abdullah] <br> Abduallah Hamdi |
