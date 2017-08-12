@@ -74,7 +74,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Nov 3, 2016 | Overview of Sketch Based Derived Applications and Techniques | TBD | ![Sara Shaheen][image-sara] <br> Sara Shaheen |
 
 <!-- Images -->
-[image-group]: https://ivul.kaust.edu.sa/PublishingImages/Featured/GroupPhoto2.png?Width=915&Height=240 "IVUL Group Photo"
+[image-group]: https://ivul.kaust.edu.sa/PublishingImages/Featured/featured_2017.png?Width=915&Height=240 "IVUL Group Photo"
 [image-victor]: http://activity-net.org/images/victor.png "Victor Escorcia"
 [image-fabian]: http://activity-net.org/challenges/2016/images/fabian.png "Fabian Caba Heilbron"
 [image-bao]: https://ivul.kaust.edu.sa/PublishingImages/People/Baoyuan_Wu_135X135.png?Width=135&Height=135 "Baoyuan Wu"
