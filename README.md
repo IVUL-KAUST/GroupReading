@@ -22,7 +22,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 3, 2017 | Dense Captioning | <a href="Material/DenseCaptioning_Presentation_silvio.pdf">Slides</a> | ![image-silvio][image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
 | Thu, Aug 10, 2017 | Deep Augmentation for Image and Activity Recognition |  <a href="Material/DeepAugmentation_Abdullah.pdf">Slides</a> | ![image-Abdullah][image-Abdullah] <br> Abduallah Hamdi |
 | Thu, Aug 17, 2017 | Hourglass Networks | <a href="Material/stacked_hourglass_network_chen.pptx">Slides</a>  | ![image-Chen][image-Chen] <br> Chen Zhao
-| TBD | TBD | TBD  | ![image-lama][image-lama] <br> Lama Affara
+| Thu, Sept 14, 2017 | TBD | TBD  | TBD
+| Thu, Sept 21, 2017 | TBD | TBD  | ![image-lama][image-lama] <br> Lama Affara
 
 
 
