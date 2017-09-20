@@ -23,7 +23,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 10, 2017 | Deep Augmentation for Image and Activity Recognition |  <a href="Material/DeepAugmentation_Abdullah.pdf">Slides</a> | ![image-Abdullah][image-Abdullah] <br> Abduallah Hamdi |
 | Thu, Aug 17, 2017 | Hourglass Networks | <a href="Material/stacked_hourglass_network_chen.pptx">Slides</a>  | ![image-Chen][image-Chen] <br> Chen Zhao
 | Thu, Sept 14, 2017 | CVPR18 Progress Work | TBD  | All IVUL members
-| Thu, Sept 21, 2017 | TBD | TBD  | ![image-lama][image-lama] <br> Lama Affara
+| Thu, Sept 21, 2017 | TBD | TBD  | ![image-lama][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/)
 | Thu, Sept 28, 2017 | Active Learning | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 
 
