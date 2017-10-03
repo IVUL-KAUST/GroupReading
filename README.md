@@ -24,7 +24,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 17, 2017 | Hourglass Networks | <a href="Material/stacked_hourglass_network_chen.pptx">Slides</a>  | ![image-Chen][image-Chen] <br> Chen Zhao
 | Thu, Sept 14, 2017 | CVPR18 Progress Work | TBD  | All IVUL members
 | Thu, Sept 21, 2017 | Self Supervision | <a href="Material/SelfSupervision_Lama.pdf">Slides</a>  | ![image-lama][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/)
-| Thu, Sept 28, 2017 | Active Learning | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
+| Thu, Sept 28, 2017 | SLURM/Submitting jobs to Skynet | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
+| Thu, Oct 5, 2017 | Active Learning | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 
 
 
