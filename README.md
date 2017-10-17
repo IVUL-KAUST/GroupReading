@@ -26,7 +26,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Sept 21, 2017 | Self Supervision | <a href="Material/SelfSupervision_Lama.pdf">Slides</a>  | ![image-lama][image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/)
 | Thu, Sept 28, 2017 | SLURM/Submitting jobs to Skynet | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 | Thu, Oct 5, 2017 | Active Learning | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
-| Thu, Oct 12, 2017 | VLAD | <a href="Material/VLAD%20Presentation.pptx">Slides</>  | ![image-silvio][image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
+| Thu, Oct 12, 2017 | VLAD | <a href="Material/VLAD%20Presentation.pptx">Slides</a>  | ![image-silvio][image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
 | Thu, Oct 19, 2017 | TBD | TBD  | ![Noor Bafageeh][image-noor] <br> Noor Bafageeh |
 
 
