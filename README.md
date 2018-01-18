@@ -28,7 +28,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Oct 5, 2017 | Active Learning | TBD  | ![Fabian Caba][image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 | Thu, Oct 12, 2017 | VLAD | <a href="Material/VLAD%20Presentation.pptx">Slides</a>  | ![image-silvio][image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
 | Thu, Oct 19, 2017 | TBD | TBD  | ![Noor Bafageeh][image-noor] <br> Noor Bafageeh |
-
+| Thu, Oct 26, 2017 | TBD | TBD  | ![Noor Bafageeh][image-chen] <br> Chen Zhao |
 
 
 
