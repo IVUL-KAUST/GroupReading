@@ -24,8 +24,8 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Aug 17, 2017 | Hourglass Networks | <a href="Material/stacked_hourglass_network_chen.pptx">Slides</a>  | ![image-Chen] <br> Chen Zhao
 | Thu, Sept 14, 2017 | CVPR18 Progress Work | TBD  | All IVUL members
 | Thu, Sept 21, 2017 | Self Supervision | <a href="Material/SelfSupervision_Lama.pdf">Slides</a>  | ![image-lama] <br> [Lama Affara](https://sites.google.com/site/lamaaffara/)
-| Thu, Sept 28, 2017 | SLURM/Submitting jobs to Skynet | TBD  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
-| Thu, Oct 5, 2017 | Active Learning | <a href="Material/ivul_group_meeting_active_learning.pptx"> Slides </a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
+| Thu, Sept 28, 2017 | SLURM/Submitting jobs to Skynet | <a href="Material/ivul_group_meeting_skynet.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
+| Thu, Oct 5, 2017 | Active Learning | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 | Thu, Oct 12, 2017 | VLAD | <a href="Material/VLAD%20Presentation.pptx">Slides</a>  | ![image-silvio] <br> [Silvio Giancola](https://sites.google.com/view/silviogiancola)|
 | Thu, Oct 19, 2017 | Zero Shot Learning | <a href="Material/Zero_Shot_Learning _Noor.pdf">Slides</a>  | ![image-noor] <br> Noor Bafageeh |
 | Thu, Oct 26, 2017 | Compressing Deep Neural Networks | <a href="Material/Compress_deep_neural_network_Chen.pptx">Slides</a>  | ![image-chen] <br> Chen Zhao |
