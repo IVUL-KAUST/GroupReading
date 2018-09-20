@@ -30,6 +30,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Thu, Oct 19, 2017 | Zero Shot Learning | <a href="Material/Zero_Shot_Learning _Noor.pdf">Slides</a>  | ![image-noor] <br> Noor Bafageeh |
 | Thu, Oct 26, 2017 | Compressing Deep Neural Networks | <a href="Material/Compress_deep_neural_network_Chen.pptx">Slides</a>  | ![image-chen] <br> Chen Zhao |
 | Thu, Feb 1, 2018 | Video Object Detection | TBD  | ![image-Yancheng] <br> Yancheng Bai |
+| Thu, Sept , 2017 | CVPR guidelines | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
 | Thu, Sept 13, 2018 | Computational phtography | <a href="#">Slides</a>  | ![image-chen] <br> Ali Thabet |
 
 
