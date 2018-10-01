@@ -5,11 +5,16 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 
 ![Group Image][image-group]
 
+# Readings (Sep 20th 2018 - Present )
+
+| **Date** | **Description** | **Readings** | **Presenter** |
+| :---: | :---: | :---: | :---: |
+| Thu, Sept 20 , 2018 | CVPR guidelines, group normilzation | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
+| Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="#">Slides</a>  | ![image-Ali] <br> Ali Thabet | Tue, Oct 2nd, 2018 | TBD | [Link](http://yosinski.com/transfer) <a href="#" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
 
 
 
-
-# Readings (May 25th 2017 - TBD)
+# Readings (May 25th 2017 - Feb 1st 2018 )
 
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
