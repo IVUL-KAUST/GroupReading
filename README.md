@@ -10,7 +10,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
 | Thu, Sept 20 , 2018 | CVPR guidelines, group normilzation | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
-|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali] <br> [Ali Thabet] 
+|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali](https://avatars2.githubusercontent.com/u/7911473?s=400&v=4) <br> [Ali Thabet] 
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
 
 
