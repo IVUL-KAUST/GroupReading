@@ -1,3 +1,8 @@
+<style>
+table {
+    width:100%;
+}
+</style>
 # IVUL Group Reading Memories
 
 This repository is intended to keep record of the paper discussed at 
