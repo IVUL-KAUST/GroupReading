@@ -104,7 +104,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-jian]: https://ivul.kaust.edu.sa/PublishingImages/People/JianZhang.png?Width=135&Height=135 "Jian Zhang"
 [image-Yancheng]: https://ivul.kaust.edu.sa/PublishingImages/People/YanchengBai.jpg?Width=135&Height=135 "Yancheng Bai"
 [image-Noor]: https://ivul.kaust.edu.sa/PublishingImages/People/NoorBafageeh.jpg?Width=135&Height=135 "Noor Bafageeh"
-[image-Humam]: https://ivul.kaust.edu.sa/PublishingImages/People/HumamAlwassel.jpg?Width=135&Height=135 "Humam AlWassel"
+[image-Humam]: https://ivul.kaust.edu.sa/PublishingImages/People/humamalwassel.jpg?Width=135&Height=135 "Humam AlWassel"
 [image-Modar]: https://ivul.kaust.edu.sa/PublishingImages/People/Modar_Alfadly.jpg?Width=135&Height=135 "Modar Alfadly"
 [image-Abdullah]: https://ivul.kaust.edu.sa/PublishingImages/People/abd_hamdi.jpg?Width=135&Height=135 "Abdullah Hamdi"
 [image-silvio]: https://ivul.kaust.edu.sa/PublishingImages/People/Silvio_Giancola.jpg?Width=135&Height=135 "Silvio Giancola"
