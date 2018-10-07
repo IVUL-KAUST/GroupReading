@@ -9,8 +9,9 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
-| Thu, Sept 20 , 2018 | CVPR guidelines, group normilzation | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
-|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali] <br> [Ali Thabet] 
+| Thu, Aug 6, 2018 | PyTorch Tutorial | <a href="https://nbviewer.jupyter.org/gist/ModarTensai/b081dcf6c87f9134f29abe3a77be1ab5">Notebook</a>  |  ![image-Modar] <br> Modar Alfadly |
+| Thu, Sept 20, 2018 | CVPR guidelines, group normilzation | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/) |
+|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali] <br> Ali Thabet |
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
 
 
@@ -22,7 +23,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
 | Thu, May 25, 2017 | Tensor Decompositions | [Link1](https://www.youtube.com/watch?v=HcIN27_WqPU&t=1559s) <br> <a href="Material/Tensor_decompositions_1.pptx">Slides</a> <br> <a href="Material/Tensor_decompositions_2.pdf">Material_2</a> <br> <a href="Material/Tensor_decompositions_3.pdf">Material_3</a> <br> <a href="Material/Tensor_decompositions_4.pdf">Material_4</a> | ![image-adel] <br> [Adel Bibi](http://www.adelbibi.com/) |
-| Thu, June 22m 2017 | Understanding Deep Networks from a Geometric and Probabilistic Perspectives | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![image-Modar] <br> Modar Alfadly <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
+| Thu, June 22, 2017 | Understanding Deep Networks from a Geometric and Probabilistic Perspectives | <a href="Material/Understanding DNNs_Modar_Adel.pdf">Slides</a>  |  ![image-Modar] <br> Modar Alfadly <br> ![Adel Bibi][image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
 | Thu, July 6, 2017 | Weakly Supervised Learning | <a href="Material/weakly_supervised_learning_yongqiang.pdf">PDF</a> | Yongqiang Zhang
 | Thu, July 13, 2017 | Football Analytics | <a href="Material/Football_Analytics_Moh_Ta.pptx">Slides</a> | Mohieddine and Tarek
 | Thu, July 20, 2017 | Color Transfer for Underwater Images Color Correction | <a href="Material/Underwater_Color_transfer_Rafal_Adel.pdf">Slides</a> | Rafal Protasiuk & <br> ![image-adel] <br> [Adel Bibi](http://www.adelbibi.com/)  |
