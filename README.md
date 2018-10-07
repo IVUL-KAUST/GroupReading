@@ -10,7 +10,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | **Date** | **Description** | **Readings** | **Presenter** |
 | :---: | :---: | :---: | :---: |
 | Thu, Sept 20 , 2018 | CVPR guidelines, group normilzation | <a href="Material/ivul_group_meeting_active_learning.pptx">Slides</a>  | ![image-fabian] <br> [Fabian Caba](http://www.cabaf.net/)
-|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali](https://avatars2.githubusercontent.com/u/7911473?s=400&v=4) <br> [Ali Thabet] 
+|Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali] <br> [Ali Thabet] 
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
 
 
@@ -108,6 +108,6 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-Abdullah]: https://ivul.kaust.edu.sa/PublishingImages/People/abd_hamdi.jpg?Width=135&Height=135 "Abdullah Hamdi"
 [image-silvio]: https://ivul.kaust.edu.sa/PublishingImages/People/Silvio_Giancola.jpg?Width=135&Height=135 "Silvio Giancola"
 [image-Chen]: https://ivul.kaust.edu.sa/PublishingImages/People/ChenZhao.JPG?Width=135&Height=135 "Chen Zhao"
-
+[image-Ali]: https://ivul.kaust.edu.sa/PublishingImages/People/Ali_Thabet_135X135.jpg?Width=135&Height=135 "Ali Thabet"
 
 
