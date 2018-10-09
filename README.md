@@ -14,7 +14,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 |Thu, Sept 27, 2018 | Computational phtography, Image tone mapping | <a href="Material/Group_Meeting_27_9_18 .pdf">Slides</a>  | ![image-Ali] <br> Ali Thabet |
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
 | Tue, Oct 2nd, 2018 | Capsule Networks | <a href="/Material/Domain Randomization and Its Use for Implicit 3D.pptx
-" >Slides</a> |  ![image-Modar] <br> Modar Alfadly |
+" >Slides</a> |  ![image-jean] <br> Jean Lahoud |
 
 
 
