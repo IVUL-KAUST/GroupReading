@@ -15,7 +15,17 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly 
 | Tue, Oct 9th, 2018 | Domain Randomization and its Use for Implicit 3D | <a href="/Material/Domain Randomization and Its Use for Implicit 3D.pptx" >Slides</a> |  ![image-jean] <br> Jean Lahoud |
 | Tue, Oct 16th, 2018 | Siamese Networks for tracking | <a href="/Material/Siamese Tracking IVUL Group Meeting.pdf" >Slides</a> |  ![image-Jesus] <br> Jesus Zarzar |
-
+| Tue, Oct 23th, 2018 |  |  |  ![image-Salman] <br> Salman |
+| Tue, Oct 30th, 2018 |  |  |  ![image-Victor] <br> Victor |
+| Tue, Nov 6th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
+| Tue, Nov 13th, 2018 |  |  |  ![image-Abdullah] <br> Abdullah |
+| Tue, Nov 20th, 2018 |  |  |  ![image-Humam] <br> Humam |
+| Tue, Nov 27th, 2018 |  |  |  ![image-Mattia] <br> Mattia |
+| Tue, Dec 4th, 2018 |  |  |  ![image-Frost] <br> Frost |
+| Tue, Dec 11th, 2018 |  |  |  ![image-Jian] <br> Jian |
+| Tue, Dec 18th, 2018 |  |  |  ![image-Merey] <br> Merey |
+| Tue, Dec 25th, 2018? |  |  |  ![image-Silvio] <br> Silvio |
+| Tue, Dec 31th, 2018? |  |  |  ![image-Guohau] <br> Guohau |
 
 
 
@@ -112,4 +122,11 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-Chen]: https://ivul.kaust.edu.sa/PublishingImages/People/ChenZhao.JPG?Width=135&Height=135 "Chen Zhao"
 [image-Ali]: https://ivul.kaust.edu.sa/PublishingImages/People/Ali_Thabet_135X135.jpg?Width=135&Height=135 "Ali Thabet"
 [image-Jesus]: https://ivul.kaust.edu.sa/PublishingImages/People/JesusZarzar.jpg?Width=135&Height=135
+
+[image-Salman]: https://ivul.kaust.edu.sa/PublishingImages/People/salman_alsubaihi.jpg?Width=135&Height=135
+[image-Frost]: https://ivul.kaust.edu.sa/PublishingImages/People/Frost_Xu.png?Width=135&Height=135
+[image-Jian]: https://ivul.kaust.edu.sa/PublishingImages/People/JianZhang.png?Width=135&Height=135
+[image-Merey]: https://ivul.kaust.edu.sa/PublishingImages/People/merey_ramazanova.jpg?Width=135&Height=135
+
+[image-Guohau]: https://ivul.kaust.edu.sa/PublishingImages/People/GuohaoLi.JPG?Width=135&Height=135?Width=135&Height=135
 
