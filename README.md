@@ -15,17 +15,17 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly 
 | Tue, Oct 9th, 2018 | Domain Randomization and its Use for Implicit 3D | <a href="/Material/Domain Randomization and Its Use for Implicit 3D.pptx" >Slides</a> |  ![image-jean] <br> Jean Lahoud |
 | Tue, Oct 16th, 2018 | Siamese Networks for tracking | <a href="/Material/Siamese Tracking IVUL Group Meeting.pdf" >Slides</a> |  ![image-Jesus] <br> Jesus Zarzar |
-| Tue, Oct 23th, 2018 |  |  |  ![image-Salman] <br> Salman |
-| Tue, Oct 30th, 2018 |  |  |  ![image-Victor] <br> Victor |
-| Tue, Nov 6th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
-| Tue, Nov 13th, 2018 |  |  |  ![image-Abdullah] <br> Abdullah |
-| Tue, Nov 20th, 2018 |  |  |  ![image-Humam] <br> Humam |
-| Tue, Nov 27th, 2018 |  |  |  ![image-Mattia] <br> Mattia |
-| Tue, Dec 4th, 2018 |  |  |  ![image-Frost] <br> Frost |
-| Tue, Dec 11th, 2018 |  |  |  ![image-Jian] <br> Jian |
-| Tue, Dec 18th, 2018 |  |  |  ![image-Merey] <br> Merey |
-| Tue, Dec 25th, 2018? |  |  |  ![image-Silvio] <br> Silvio |
-| Tue, Dec 31th, 2018? |  |  |  ![image-Guohau] <br> Guohau |
+| Tue, Oct 23th, 2018 | Adversarial attacks | TODO  |  ![image-Salman] <br> Salman |
+| Tue, Nov 27th, 2018 | Attention Is All You Need [paper](https://arxiv.org/abs/1706.03762) [post](http://jalammar.github.io/illustrated-transformer/) <br> LAMV [paper](http://imagelab.ing.unimore.it/imagelab/pubblicazioni/2018_CVPR.pdf) | - |  ![image-Victor] <br> Victor |
+| Tue, Dec 4th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
+| Tue, Dec 11th, 2018 |  |  |  ![image-Abdullah] <br> Abdullah |
+| Tue, Dec 18th, 2018 |  |  |  ![image-Humam] <br> Humam |
+| Tue, Dec 25th, 2018? |  |  |  ![image-Mattia] <br> Mattia |
+| Tue, Dec 31th, 2018? |  |  |  ![image-Frost] <br> Frost |
+| Tue, Jan 11th, 2018? |  |  |  ![image-Jian] <br> Jian |
+| Tue, Jan 8th, 2018 |  |  |  ![image-Merey] <br> Merey |
+| Tue, Jan 15th, 2018 |  |  |  ![image-Silvio] <br> Silvio |
+| Tue, Jan 22th, 2018 |  |  |  ![image-Guohau] <br> Guohau |
 
 
 
