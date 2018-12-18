@@ -15,7 +15,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Oct 2nd, 2018 | Capsule Networks |  <a href="/Material/Capsule Networks.pdf" >Slides</a> |  ![image-Modar] <br> Modar Alfadly 
 | Tue, Oct 9th, 2018 | Domain Randomization and its Use for Implicit 3D | <a href="/Material/Domain Randomization and Its Use for Implicit 3D.pptx" >Slides</a> |  ![image-jean] <br> Jean Lahoud |
 | Tue, Oct 16th, 2018 | Siamese Networks for tracking | <a href="/Material/Siamese Tracking IVUL Group Meeting.pdf" >Slides</a> |  ![image-Jesus] <br> Jesus Zarzar |
-| Tue, Oct 23th, 2018 | Adversarial attacks | TODO  |  ![image-Salman] <br> Salman |
+| Tue, Oct 23th, 2018 | Adversarial attacks | <a href="/Material/AdversaralAttacks.ppt">slides</a>  |  ![image-Salman] <br> Salman |
 | Tue, Nov 27th, 2018 | Attention Is All You Need [paper](https://arxiv.org/abs/1706.03762) [post](http://jalammar.github.io/illustrated-transformer/) <br> LAMV [paper](http://imagelab.ing.unimore.it/imagelab/pubblicazioni/2018_CVPR.pdf) | - |  ![image-Victor] <br> Victor |
 | Tue, Dec 4th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
 | Tue, Dec 11th, 2018 |  |  |  ![image-Abdullah] <br> Abdullah |
