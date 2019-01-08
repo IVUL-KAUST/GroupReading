@@ -18,7 +18,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Oct 23th, 2018 | Adversarial attacks | <a href="/Material/AdversaralAttacks.ppt">slides</a>  |  ![image-Salman] <br> Salman |
 | Tue, Nov 27th, 2018 | Attention Is All You Need [paper](https://arxiv.org/abs/1706.03762) [post](http://jalammar.github.io/illustrated-transformer/) <br> LAMV [paper](http://imagelab.ing.unimore.it/imagelab/pubblicazioni/2018_CVPR.pdf) | - |  ![image-Victor] <br> Victor |
 | Tue, Dec 4th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
-| Tue, Dec 11th, 2018 |  |  |  ![image-Abdullah] <br> Abdullah |
+| Tue, Dec 11th, 2018 | Differentiable Rendering  | <a href="/Material/Differentiable Rendering.pptx">Slides</a> |  ![image-Abdullah] <br> Abdullah |
 | Tue, Dec 18th, 2018 |  |  |  ![image-Humam] <br> Humam |
 | Tue, Dec 25th, 2018? |  |  |  ![image-Mattia] <br> Mattia |
 | Tue, Dec 31th, 2018? |  |  |  ![image-Frost] <br> Frost |
