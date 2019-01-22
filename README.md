@@ -18,14 +18,13 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Oct 23th, 2018 | Adversarial attacks | <a href="/Material/AdversaralAttacks.ppt">slides</a>  |  ![image-Salman] <br> Salman |
 | Tue, Nov 27th, 2018 | Attention Is All You Need [paper](https://arxiv.org/abs/1706.03762) [post](http://jalammar.github.io/illustrated-transformer/) <br> LAMV [paper](http://imagelab.ing.unimore.it/imagelab/pubblicazioni/2018_CVPR.pdf) | - |  ![image-Victor] <br> Victor |
 | Tue, Dec 4th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
-| Tue, Dec 11th, 2018 | Differentiable Rendering  | <a href="/Material/Differentiable Rendering.pdf">Slides</a>\\ <a href="/Material/Neaural_renderer.ipynb">Notebook</a> |  ![image-Abdullah] <br> Abdullah |
-| Tue, Dec 18th, 2018 |  |  |  ![image-Humam] <br> Humam |
-| Tue, Dec 25th, 2018? |  |  |  ![image-Mattia] <br> Mattia |
-| Tue, Dec 31th, 2018? |  |  |  ![image-Frost] <br> Frost |
-| Tue, Jan 11th, 2018? |  |  |  ![image-Jian] <br> Jian |
-| Tue, Jan 8th, 2018 |  |  |  ![image-Merey] <br> Merey |
-| Tue, Jan 15th, 2018 |  |  |  ![image-Silvio] <br> Silvio |
-| Tue, Jan 22th, 2018 |  |  |  ![image-Guohau] <br> Guohau |
+| Tue, Jan 8th, 2019 | Differentiable Rendering  | <a href="/Material/Differentiable Rendering.pdf">Slides</a>\\ <a href="/Material/Neaural_renderer.ipynb">Notebook</a> |  ![image-Abdullah] <br> Abdullah |
+| Tue, Jan 15th, 2019 |  [paper1](http://openaccess.thecvf.com/content_ECCV_2018/papers/Andreas_Veit_Convolutional_Networks_with_ECCV_2018_paper.pdf) [paper2](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adria_Recasens_Learning_to_Zoom_ECCV_2018_paper.pdf)|  |  ![image-Humam] <br> Humam |
+| Tue, Jan 22th, 2019 | [paper1](https://arxiv.org/pdf/1703.01541.pdf) [paper2](https://papers.nips.cc/paper/7610-sequence-to-segment-networks-for-segment-detection.pdf) |  |  ![image-Mattia] <br> Mattia |
+| Tue, Jan 29th, 2019 |  |  |  ![image-Merey] <br> Merey |
+| Tue, Jan 29th, 2019 |  |  |  ![image-Frost] <br> Frost |
+| Tue, Jan 29th, 2019 |  |  |  ![image-Silvio] <br> Silvio |
+| Tue, Jan 29th, 2019 |  |  |  ![image-Guohau] <br> Guohau |
 
 
 
@@ -129,4 +128,5 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 [image-Merey]: https://ivul.kaust.edu.sa/PublishingImages/People/merey_ramazanova.jpg?Width=135&Height=135
 
 [image-Guohau]: https://ivul.kaust.edu.sa/PublishingImages/People/GuohaoLi.JPG?Width=135&Height=135?Width=135&Height=135
+[image-Mattia]: https://media.licdn.com/dms/image/C5603AQFYGSIWQhjkRg/profile-displayphoto-shrink_800_800/0?e=1553731200&v=beta&t=0WSCw_zWKDcnGQlmzeCaVBSdqbBzUHQKZ24avpEMvDI
 
