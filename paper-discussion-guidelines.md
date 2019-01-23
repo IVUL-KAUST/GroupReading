@@ -40,5 +40,5 @@ Explain the relevance of the paper in their field, etc.
 ## General rules
 - This is a group activity. Be a good citizen; our attitude shows our commitment to the group.
 - Take advantage of this opportunity to practice soft-skills. How to read a paper, how to ask questions, how to organize a panel.
-- Research emerges from connecting dots far apart. If you read from other silos, the chances are that the dots won't be trivial to join a.k.a incremental research. 
+- Research emerges from connecting dots far apart. If you read from other silos, the chances are that the dots won't be trivial to join i.e. the opposite of incremental research. 
 - The group reading is not going to solve your research. We better keep reading by ourselves outside of it as well.
