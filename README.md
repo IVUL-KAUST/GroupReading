@@ -20,7 +20,7 @@ the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 | Tue, Dec 4th, 2018 |  |  |  ![image-Matthias] <br> Matthias |
 | Tue, Jan 8th, 2019 | Differentiable Rendering  | <a href="/Material/Differentiable Rendering.pdf">Slides</a>\\ <a href="/Material/Neaural_renderer.ipynb">Notebook</a> |  ![image-Abdullah] <br> Abdullah |
 | Tue, Jan 15th, 2019 |  [paper1](http://openaccess.thecvf.com/content_ECCV_2018/papers/Andreas_Veit_Convolutional_Networks_with_ECCV_2018_paper.pdf) [paper2](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adria_Recasens_Learning_to_Zoom_ECCV_2018_paper.pdf)|  |  ![image-Humam] <br> Humam |
-| Tue, Jan 22th, 2019 | [paper1](https://arxiv.org/pdf/1703.01541.pdf) [paper2](https://papers.nips.cc/paper/7610-sequence-to-segment-networks-for-segment-detection.pdf) |  |  ![image-Mattia] <br> Mattia |
+| Tue, Jan 22th, 2019 | [paper1](https://arxiv.org/pdf/1703.01541.pdf) [paper2](https://papers.nips.cc/paper/7610-sequence-to-segment-networks-for-segment-detection.pdf) |  |  <img src="https://media.licdn.com/dms/image/C5603AQFYGSIWQhjkRg/profile-displayphoto-shrink_800_800/0?e=1553731200&v=beta&t=0WSCw_zWKDcnGQlmzeCaVBSdqbBzUHQKZ24avpEMvDI" width="135" /> <br> Mattia |
 | Tue, Feb 5th, 2019 |  |  |  ![image-Merey] <br> Merey |
 | Tue, Feb 12th, 2019 |  |  |  ![image-Frost] <br> Frost |
 | Tue, Feb 19th, 2019 |  |  |  ![image-Silvio] <br> Silvio |
