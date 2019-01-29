@@ -1,0 +1,1 @@
+-  Neural Ordinary Differential Equations. [website](https://arxiv.org/abs/1806.07366). Added: Jan 29.
