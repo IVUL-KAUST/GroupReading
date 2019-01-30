@@ -1,1 +1,3 @@
 -  Neural Ordinary Differential Equations. [website](https://arxiv.org/abs/1806.07366). Added: Jan 29.
+- Opening the black box of Deep Neural Networks via Information. [website](https://arxiv.org/pdf/1703.00810.pdf). Added: Jan 29.
+- ON THE INFORMATION BOTTLENECK THEORY OF DEEP LEARNING. [website](https://openreview.net/pdf?id=ry_WPG-A-). Added: Jan 29.
