@@ -1,1 +1,2 @@
 -  Neural Ordinary Differential Equations. [website](https://arxiv.org/abs/1806.07366). Added: Jan 29.
+-  Self-Normalizing Neural Networks (SELU).  [website](https://arxiv.org/pdf/1706.02515.pdf). Added: Jan 29.
