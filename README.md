@@ -3,6 +3,8 @@
 This repository is intended to keep record of the paper discussed at 
 the weekly [IVUL](https://ivul.kaust.edu.sa/Pages/Home.aspx) group readings.
 
+[Ongoing list of suggested papers](https://docs.google.com/spreadsheets/d/1sxOOSXRQjaHoi2MPfeKsdgEUnS0qD3di11c4XcMdsTc/edit#gid=0)
+
 ![Group Image][image-group]
 
 # Readings (Sep 20th 2018 - Present )
